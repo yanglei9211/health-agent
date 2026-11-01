@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db*
+*.zip
+*.csv
+*.json
+*.jsonl
+.env*
+data/
+backups/
+.private/
